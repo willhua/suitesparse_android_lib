@@ -19,7 +19,7 @@
 /* === complex arithmetic =================================================== */
 /* ========================================================================== */
 
-#include "../../../../../include/cholmod_template.h"
+#include "../Include/cholmod_template.h"
 
 #undef L_ENTRY
 #undef L_CLEAR
